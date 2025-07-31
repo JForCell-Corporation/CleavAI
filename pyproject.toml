@@ -5,6 +5,7 @@ description = "Deep learning–based pipeline for discovering protease-cleavable
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "biopython>=1.85",
     "mysql-connector-python>=9.4.0",
     "notebook>=7.4.4",
     "numpy>=2.2.6",
