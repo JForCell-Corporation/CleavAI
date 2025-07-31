@@ -1,0 +1,16 @@
+[project]
+name = "cleavai"
+version = "0.1.0"
+description = "Deep learning–based pipeline for discovering protease-cleavable peptides."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "notebook>=7.4.4",
+    "numpy>=2.2.6",
+    "pandas>=2.3.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.30.0",
+]
