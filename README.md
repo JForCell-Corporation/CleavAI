@@ -1,5 +1,7 @@
 # CleavAI
 
+> **Work in Progress**: This project is under active development.
+
 CleavAI is a computational framework for predicting furin cleavage of peptides and ranking candidates based on a weighted efficiency score that incorporates cleavage likelihood and synthesis cost.
 
 <br/>
